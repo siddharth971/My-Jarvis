@@ -1,0 +1,79 @@
+[
+  {
+    "intent": "greeting",
+    "utterances": [
+      "hello",
+      "hi",
+      "hey",
+      "good morning",
+      "good evening",
+      "hello jarvis",
+      "hey jarvis",
+      "hi there"
+    ]
+  },
+  {
+    "intent": "open_youtube",
+    "utterances": [
+      "open youtube",
+      "can you open youtube",
+      "please open youtube",
+      "jarvis open youtube",
+      "go to youtube",
+      "open the youtube website"
+    ]
+  },
+  {
+    "intent": "search_youtube",
+    "utterances": [
+      "search youtube for songs",
+      "search youtube for coding tutorial",
+      "find youtube video for music",
+      "youtube search for funny cats",
+      "search on youtube"
+    ]
+  },
+  {
+    "intent": "tell_time",
+    "utterances": [
+      "what is the time",
+      "tell me the time",
+      "current time",
+      "what time is it now",
+      "time please"
+    ]
+  },
+  {
+    "intent": "take_screenshot",
+    "utterances": [
+      "take a screenshot",
+      "capture screen",
+      "take screenshot",
+      "screenshot please",
+      "capture my desktop"
+    ]
+  },
+  {
+    "intent": "open_website",
+    "utterances": [
+      "open website google.com",
+      "open google.com",
+      "go to google.com",
+      "please open google.com",
+      "can you open website google.com",
+      "open the website google.com",
+      "visit google.com",
+      "open this website google.com"
+    ]
+  },
+  {
+    "intent": "ask_which_website",
+    "utterances": [
+      "open website",
+      "open a website",
+      "please open a website",
+      "i want to open a website",
+      "can you open a website"
+    ]
+  }
+]
